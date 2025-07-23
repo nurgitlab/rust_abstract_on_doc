@@ -1,0 +1,1 @@
+# rust_abstract_on_doc
